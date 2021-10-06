@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc49e0da-cb14-4eeb-8a8f-8ee865c9edaf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dPQKhdwI7vQKEXxasCiVQHU6vf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.connecting_points">
+    <configuration name="bfs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms_on_Graphs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3_paths1/1_bfs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3_paths1/1_bfs/bfs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="connecting_points" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms_on_Graphs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week5_mst/1_connecting_points" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week5_mst/1_connecting_points/connecting_points.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dijkstra" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms_on_Graphs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_paths2/1_dijkstra" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_paths2/1_dijkstra/dijkstra.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="negative_cycle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms_on_Graphs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week4_paths2/2_negative_cycle" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week4_paths2/2_negative_cycle/negative_cycle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="toposort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms_on_Graphs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2_decomposition2/2_toposort" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2_decomposition2/2_toposort/toposort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.connecting_points" />
+        <item itemvalue="Python.negative_cycle" />
+        <item itemvalue="Python.dijkstra" />
+        <item itemvalue="Python.bfs" />
+        <item itemvalue="Python.toposort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc49e0da-cb14-4eeb-8a8f-8ee865c9edaf" name="Default Changelist" comment="" />
+      <created>1592324185553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592324185553</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="117" key="#Inspections" timestamp="1594752698585">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="400" y="117" key="#Inspections/0.0.1600.900@0.0.1600.900" timestamp="1594752698585" />
+    <state x="493" y="79" key="#dijkstra" timestamp="1594340911080">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="493" y="79" key="#dijkstra/0.0.1600.900@0.0.1600.900" timestamp="1594340911080" />
+    <state width="669" height="466" key="DebuggerActiveHint" timestamp="1594761865554">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="669" height="466" key="DebuggerActiveHint/0.0.1600.900@0.0.1600.900" timestamp="1594761865554" />
+    <state width="1579" height="245" key="GridCell.Tab.0.bottom" timestamp="1594775269686">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="245" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1594775269686" />
+    <state width="1579" height="303" key="GridCell.Tab.0.bottom/0.23.1600.877@0.23.1600.877" timestamp="1593013923391" />
+    <state width="1579" height="245" key="GridCell.Tab.0.center" timestamp="1594775269685">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="245" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1594775269685" />
+    <state width="1579" height="303" key="GridCell.Tab.0.center/0.23.1600.877@0.23.1600.877" timestamp="1593013923390" />
+    <state width="1579" height="245" key="GridCell.Tab.0.left" timestamp="1594775269684">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="245" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1594775269684" />
+    <state width="1579" height="303" key="GridCell.Tab.0.left/0.23.1600.877@0.23.1600.877" timestamp="1593013923389" />
+    <state width="1579" height="245" key="GridCell.Tab.0.right" timestamp="1594775269685">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="245" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1594775269685" />
+    <state width="1579" height="303" key="GridCell.Tab.0.right/0.23.1600.877@0.23.1600.877" timestamp="1593013923391" />
+    <state width="1579" height="303" key="GridCell.Tab.1.bottom" timestamp="1594775240081">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="303" key="GridCell.Tab.1.bottom/0.0.1600.900@0.0.1600.900" timestamp="1594775240081" />
+    <state width="1579" height="303" key="GridCell.Tab.1.bottom/0.23.1600.877@0.23.1600.877" timestamp="1593013923393" />
+    <state width="1579" height="303" key="GridCell.Tab.1.center" timestamp="1594775240080">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="303" key="GridCell.Tab.1.center/0.0.1600.900@0.0.1600.900" timestamp="1594775240080" />
+    <state width="1579" height="303" key="GridCell.Tab.1.center/0.23.1600.877@0.23.1600.877" timestamp="1593013923392" />
+    <state width="1579" height="303" key="GridCell.Tab.1.left" timestamp="1594775240080">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="303" key="GridCell.Tab.1.left/0.0.1600.900@0.0.1600.900" timestamp="1594775240080" />
+    <state width="1579" height="303" key="GridCell.Tab.1.left/0.23.1600.877@0.23.1600.877" timestamp="1593013923392" />
+    <state width="1579" height="303" key="GridCell.Tab.1.right" timestamp="1594775240080">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="303" key="GridCell.Tab.1.right/0.0.1600.900@0.0.1600.900" timestamp="1594775240080" />
+    <state width="1579" height="303" key="GridCell.Tab.1.right/0.23.1600.877@0.23.1600.877" timestamp="1593013923392" />
+    <state x="301" y="89" key="SettingsEditor" timestamp="1596487407461">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="301" y="89" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1596487407461" />
+    <state x="454" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1594576789684">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="454" y="284" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1594576789684" />
+    <state x="457" y="73" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592432038208">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="457" y="73" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1600.900@0.0.1600.900" timestamp="1592432038208" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week1_decomposition1/1_reachability/reachability.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week1_decomposition1/1_reachability/reachability.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week1_decomposition1/1_reachability/reachability.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week1_decomposition1/1_reachability/reachability.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week1_decomposition1/1_reachability/reachability.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week1_decomposition1/1_reachability/reachability.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/dfs.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/dfs.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/dfs.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/dfs.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/dfs.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/dfs.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/dfs.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/dfs.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/dfs.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/dfs.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/dfs.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/dfs.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/dfs.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week2_decomposition2/1_acyclicity/acyclicity.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week3_paths1/1_bfs/bfs.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="330" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week3_paths1/1_bfs/bfs.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week3_paths1/1_bfs/bfs.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week3_paths1/1_bfs/bfs.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week3_paths1/1_bfs/bfs.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="335" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week3_paths1/1_bfs/bfs.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="336" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week3_paths1/1_bfs/bfs.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="337" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week3_paths1/1_bfs/bfs.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="339" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week3_paths1/1_bfs/bfs.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="340" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week3_paths1/1_bfs/bfs.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week3_paths1/1_bfs/bfs.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="342" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week3_paths1/1_bfs/bfs.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week3_paths1/1_bfs/bfs.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="344" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week4_paths2/1_dijkstra/dijkstra.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week4_paths2/1_dijkstra/dijkstra.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="358" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week4_paths2/1_dijkstra/dijkstra.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="359" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week4_paths2/1_dijkstra/dijkstra.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="360" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week4_paths2/1_dijkstra/dijkstra.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="361" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week4_paths2/1_dijkstra/dijkstra.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="383" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week4_paths2/1_dijkstra/dijkstra.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="384" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week4_paths2/1_dijkstra/dijkstra.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="387" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week4_paths2/1_dijkstra/dijkstra.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="389" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week4_paths2/1_dijkstra/dijkstra.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="390" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week4_paths2/2_negative_cycle/negative_cycle.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="391" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week4_paths2/2_negative_cycle/negative_cycle.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="392" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week4_paths2/2_negative_cycle/negative_cycle.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="393" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week4_paths2/2_negative_cycle/negative_cycle.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="395" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week4_paths2/2_negative_cycle/negative_cycle.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="399" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week5_mst/1_connecting_points/connecting_points.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="410" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week5_mst/1_connecting_points/connecting_points.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="411" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week5_mst/1_connecting_points/connecting_points.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="412" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week5_mst/1_connecting_points/connecting_points.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="432" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week5_mst/1_connecting_points/connecting_points.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="433" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week5_mst/1_connecting_points/connecting_points.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="435" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/week5_mst/1_connecting_points/connecting_points.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="436" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

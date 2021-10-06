@@ -1,0 +1,194 @@
+/* element styling */
+
+p {
+    line-height: 2em;
+}
+
+h3 {
+    padding: 20px 0 10px 0;
+}
+
+form {
+    padding:20px;
+}
+
+iframe {
+    width:100%;
+    height:500px;
+}
+
+/* classes used across site */
+
+.text-center {
+    text-align: center;
+}
+
+/* header */
+
+.img-header {
+    width: 100%;
+    max-height: 500px;
+    padding-bottom: 50px;
+}
+
+/* navigation bar */
+
+.navbar-nav {
+    width:  100%;
+}
+
+.nav-item {
+    width:  20%;
+    text-align: center;
+}
+
+/* main content */
+
+.content {
+    min-height: 600px;
+    padding-bottom: 50px;
+}
+
+/* main footer */
+
+.footer-center {
+    text-align: center;
+}
+
+.footer {
+    background-color: black;
+    min-height: 500px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.footer-bottom {
+    margin:10px 0;
+}
+
+.footer-title {
+    padding: 30px 0;
+    color: lightgrey;
+}
+
+.footer-box {
+    float:left;
+    padding: 20px 0 20px 0;
+    min-height: 240px;
+    text-indent: 30%;
+}
+
+.footer-box-left {
+    border-right:1px solid lightgrey;
+    width:66%;
+    float:left;
+    padding-left: 20px;
+    min-height: 240px;
+    text-indent: 30%;
+}
+
+.footer-box-right {
+    float:left;
+    padding-top:70px;
+    width:33%;
+}
+
+.ig {
+    max-height: 150px;
+}
+
+.feedback {
+    display: none;
+}
+
+/* home page */
+
+.more-margin-bottom {
+    margin-bottom: 80px;
+}
+
+/* leaderboard table */
+
+table.dataTable thead .sorting:after,
+table.dataTable thead .sorting:before,
+table.dataTable thead .sorting_asc:after,
+table.dataTable thead .sorting_asc:before,
+table.dataTable thead .sorting_asc_disabled:after,
+table.dataTable thead .sorting_asc_disabled:before,
+table.dataTable thead .sorting_desc:after,
+table.dataTable thead .sorting_desc:before,
+table.dataTable thead .sorting_desc_disabled:after,
+table.dataTable thead .sorting_desc_disabled:before {
+bottom: .5em;
+}
+
+#leaderboard_filter, #leaderboard_length, #leaderboard_paginate {
+    display: none;
+}
+
+#leaderboard_wrapper {
+    margin-top: 50px;
+}
+
+.th-sm.sorting {
+    border-top: 2px solid lightgrey;
+}
+
+tfoot > tr > th.th-sm{
+    border-bottom: 2px solid lightgrey;
+}
+
+/* contact form */
+
+.contact {
+    margin: 100px auto 100px auto;
+    color: #555;
+    border: 2px solid lightgrey;
+    border-radius: 5px;
+}
+
+.form-group {
+    margin-bottom: 30px;
+}
+
+
+/* list for about page content */
+
+.list-group-flush {
+    line-height: 2em;
+    margin: 30px auto;
+    padding: 0 50px;
+}
+
+/* sidebar for workout of the week */
+
+.sidebar-right {
+    border-left: 2px solid darkgray;
+    margin-bottom: 25px;
+}
+
+.indented {
+    padding-left: 15px;
+    line-height: 1.5em;
+}
+
+
+/* Styling for report */
+
+.report {
+    width: 500px;
+    height: 400px;
+    margin-bottom: 50px;
+    border:1px solid black;
+}
+
+.report.report-mobile {
+    width: 300px;
+    height: 450px;
+}
+
+#report {
+    padding: 50px;
+}
+
+

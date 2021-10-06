@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c3cb779-9076-4b90-b044-15063bea41a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1i0xX67c5jwaWpBBlDO05QkIN0Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cleaning_apartment" />
+      <recent name="$PROJECT_DIR$/gsm_network" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.cleaning_apartment">
+    <configuration name="cleaning_apartment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advanced Algorithms wk3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cleaning_apartment" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cleaning_apartment/cleaning_apartment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gsm_network" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advanced Algorithms wk3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gsm_network" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gsm_network/gsm_network.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advanced Algorithms wk3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gsm_network" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gsm_network/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sudoku" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advanced Algorithms wk3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gsm_network" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gsm_network/sudoku.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cleaning_apartment" />
+        <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.gsm_network" />
+        <item itemvalue="Python.sudoku" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c3cb779-9076-4b90-b044-15063bea41a0" name="Default Changelist" comment="" />
+      <created>1601058346284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601058346284</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="128" key="#Inspections" timestamp="1601843623573">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="400" y="128" key="#Inspections/0.23.1600.877@0.23.1600.877" timestamp="1601843623573" />
+    <state x="523" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601846057749">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="523" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1600.877@0.23.1600.877" timestamp="1601846057749" />
+    <state x="538" y="217" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601846282265">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="538" y="217" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1600.877@0.23.1600.877" timestamp="1601846282265" />
+    <state width="588" height="466" key="DebuggerActiveHint" timestamp="1603244866305">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="588" height="466" key="DebuggerActiveHint/0.23.1600.877@0.23.1600.877" timestamp="1603244866305" />
+    <state width="1579" height="205" key="GridCell.Tab.0.bottom" timestamp="1603422088266">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1579" height="205" key="GridCell.Tab.0.bottom/0.23.1600.877@0.23.1600.877" timestamp="1603422088266" />
+    <state width="1579" height="205" key="GridCell.Tab.0.center" timestamp="1603422088265">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1579" height="205" key="GridCell.Tab.0.center/0.23.1600.877@0.23.1600.877" timestamp="1603422088265" />
+    <state width="1579" height="205" key="GridCell.Tab.0.left" timestamp="1603422088265">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1579" height="205" key="GridCell.Tab.0.left/0.23.1600.877@0.23.1600.877" timestamp="1603422088265" />
+    <state width="1579" height="205" key="GridCell.Tab.0.right" timestamp="1603422088265">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1579" height="205" key="GridCell.Tab.0.right/0.23.1600.877@0.23.1600.877" timestamp="1603422088265" />
+    <state width="1579" height="205" key="GridCell.Tab.1.bottom" timestamp="1603422088267">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1579" height="205" key="GridCell.Tab.1.bottom/0.23.1600.877@0.23.1600.877" timestamp="1603422088267" />
+    <state width="1579" height="205" key="GridCell.Tab.1.center" timestamp="1603422088266">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1579" height="205" key="GridCell.Tab.1.center/0.23.1600.877@0.23.1600.877" timestamp="1603422088266" />
+    <state width="1579" height="205" key="GridCell.Tab.1.left" timestamp="1603422088266">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1579" height="205" key="GridCell.Tab.1.left/0.23.1600.877@0.23.1600.877" timestamp="1603422088266" />
+    <state width="1579" height="205" key="GridCell.Tab.1.right" timestamp="1603422088267">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1579" height="205" key="GridCell.Tab.1.right/0.23.1600.877@0.23.1600.877" timestamp="1603422088267" />
+    <state x="301" y="100" key="SettingsEditor" timestamp="1602815823508">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="301" y="100" key="SettingsEditor/0.23.1600.877@0.23.1600.877" timestamp="1602815823508" />
+    <state x="454" y="296" key="com.intellij.ide.util.TipDialog" timestamp="1604109963968">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="454" y="296" key="com.intellij.ide.util.TipDialog/0.23.1600.877@0.23.1600.877" timestamp="1604109963968" />
+    <state x="457" y="85" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1602198566198">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="457" y="85" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1600.877@0.23.1600.877" timestamp="1602198566198" />
+    <state x="355" y="206" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602442347100">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="355" y="206" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1600.877@0.23.1600.877" timestamp="1602442347100" />
+    <state x="465" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1603245386904">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="465" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1600.877@0.23.1600.877" timestamp="1603245386904" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/sudoku.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/sudoku.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/sudoku.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/sudoku.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/sudoku.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/sudoku.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/sudoku.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/sudoku.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/sudoku.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/sudoku.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/sudoku.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/sudoku.py</url>
+          <line>82</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/sudoku.py</url>
+          <line>83</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/sudoku.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/sudoku.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/sudoku.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/sudoku.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/sudoku.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/sudoku.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/gsm_network.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/gsm_network.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/gsm_network.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/gsm_network.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/gsm_network.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/gsm_network.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/gsm_network.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/scratch.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/scratch.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/scratch.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/gsm_network/scratch.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cleaning_apartment/cleaning_apartment.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cleaning_apartment/cleaning_apartment.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cleaning_apartment/cleaning_apartment.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cleaning_apartment/cleaning_apartment.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cleaning_apartment/cleaning_apartment.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cleaning_apartment/cleaning_apartment.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cleaning_apartment/cleaning_apartment.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cleaning_apartment/cleaning_apartment.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/cleaning_apartment/cleaning_apartment.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

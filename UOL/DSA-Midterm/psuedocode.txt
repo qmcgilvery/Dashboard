@@ -1,0 +1,119 @@
+
+row <- [i for i 0 ≤ i ≥ 3]
+
+function make_vector(new_row)
+
+    puzzle <- [[None] * 3 for 0 ≤ i ≥ 3]
+
+    for 0 ≤ i ≥ new_row.length do
+        for 0 ≤ j ≥ 3 do
+            puzzle[i][j] <- j + 1
+        end for
+    end for
+    return puzzle
+
+
+function permute_vector(new_row, p)
+
+    for 0 ≤ x ≥ p.length do
+        store <- new_row.pop(len(new_row) - 1)
+        new_row.insert(0, store)
+    end for
+    return new_row
+
+
+function permute_row(puzzle, x, y, z)
+
+    permute_vector(puzzle[1], x)
+    permute_vector(puzzle[2], y)
+    permute_vector(puzzle[3], z)
+    return puzzle
+
+
+function linear_search(vector, item)
+
+    for 1 ≤ i ≥ vector.length do
+        if item in vector then
+            return TRUE
+        end if
+    end for
+
+    return FALSE
+
+
+function check_column(puzzle, j)
+
+    temp <- []
+
+    for 0 ≤ k ≥ puzzle.length do
+        temp.append(puzzle[k][j])
+    end for
+
+    for 1 ≤ k ≥ 3 do
+        if linear_search(temp, k) = FALSE then
+            return FALSE
+        end if
+    end for
+    return temp
+
+
+function col_check(puzzle)
+
+    for 0 ≤ x ≥ puzzle.length do
+        if check_column(puzzle, x) = FALSE then
+            return FALSE
+        end if
+    end for
+    return TRUE
+
+
+function check_grid(puzzle, row1, col1, row2, col2)
+
+    temp <-[puzzle[row1][col1], puzzle[row1][col2], puzzle[row2][col1], puzzle[row2][col2]]
+
+    for 1 ≤ k ≥ 3 do
+        if linear_search(temp, k) = FALSE then
+            return FALSE
+        end if
+    end for
+    return temp
+
+
+function check_grids(puzzle)
+
+    for 0 ≤ k ≥ 1 do
+        for 0 ≤ j ≥ 1 do
+            if check_grid(puzzle, 2 * k, 2 * j, 1 + 2 * k, 1 + 2 * j) = FALSE then
+                return FALSE
+            end if
+        end for
+    end for
+    return TRUE
+
+
+function make_solution(row)
+
+    puzzle <- make_vector(row)
+
+    while (col_check(puzzle) ^ check_grids(puzzle)) = FALSE do
+        x <- random.randint(0, 3)
+        y <- random.randint(0, 3)
+        z <- random.randint(0, 3)
+        permute_row(puzzle, x, y, z)
+    end while
+    return puzzle
+
+
+function make_puzzle(puzzle, n)
+
+    while n > 0 do
+        for 0 ≤ i ≥ puzzle.length do
+            x = random.randint(0, 3)
+            if puzzle[i][x] = TRUE ^ n > 0 then
+                puzzle[i][x] <- None
+                n -= 1
+            end if
+        end for
+    end while
+    return puzzle
+

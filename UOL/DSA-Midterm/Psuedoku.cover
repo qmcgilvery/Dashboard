@@ -1,0 +1,87 @@
+>>>>>> import random
+>>>>>> import sys
+>>>>>> import trace
+>>>>>> import time
+       
+>>>>>> start = time.time()
+       
+       # create a Trace object, telling it what to ignore, and whether to
+       # do tracing or line-counting or both.
+>>>>>> tracer = trace.Trace(
+>>>>>>     ignoredirs=[sys.prefix, sys.exec_prefix],
+>>>>>>     trace=0,
+>>>>>>     count=1)
+       
+       
+       
+>>>>>> row = [i for i in range(4)]
+       
+       
+       
+>>>>>> def makeVector(row):
+    5:     puzzle = [[None] * 4 for _ in range(4)]
+    5:     for i in range(len(row)):
+   20:         for j in range(4):
+   16:             puzzle[i][j] = j+1
+    1:     return puzzle
+       
+       
+>>>>>> def permuteVector(row, p):
+300639:     for x in range(p):
+180372:         store = row.pop(len(row)-1)
+180372:         row.insert(0, store)
+120267:     return row
+       
+       
+>>>>>> def permuteRow(puzzle, x, y, z):
+40089:     permuteVector(puzzle[1], x)
+40089:     permuteVector(puzzle[2], y)
+40089:     permuteVector(puzzle[3], z)
+40089:     return puzzle
+       
+       
+>>>>>> def linearSearch(vector, item):
+230765:     for i in range(1, len(vector)):
+190675:         if vector[i] == item:
+38089:             return True
+40090:     return False
+       
+       
+>>>>>> def checkColumn(puzzle, j):
+40090:     temp = []
+       
+200450:     for i in range(len(puzzle)):
+160360:         temp.append(puzzle[i][j])
+               # for x in range(len(puzzle[i])):
+               #     temp[i][x] = puzzle[i][x]
+78179:     for k in range(1,5):
+78179:         if not linearSearch(temp, k):
+40090:             return False
+>>>>>>     return temp
+       
+       
+>>>>>> def colCheck(puzzle):
+40090:     for x in range(len(puzzle)):
+40090:         if not checkColumn(puzzle, x):
+40090:             return False
+>>>>>>     return True
+       
+>>>>>> def makeSolution(row):
+    1:     puzzle = makeVector(row)
+       
+40090:     while not colCheck(puzzle) and time.time() - start < 5:
+40089:         x = random.randint(0, 3)
+40089:         y = random.randint(0, 3)
+40089:         z = random.randint(0, 3)
+40089:         permuteRow(puzzle, x, y, z)
+       
+    1:     return puzzle
+       
+       
+       # print makeSolution(row)
+       # run the new command using the given tracer
+>>>>>> tracer.run('makeSolution(row)')
+       
+       # make a report, placing output in the current directory
+>>>>>> r = tracer.results()
+>>>>>> r.write_results(show_missing=True, coverdir=".")

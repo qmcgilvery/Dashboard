@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71a9cd6e-449f-4e11-8893-fd3e97a23139" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Algorithmic Toolbox" />
+  </component>
+  <component name="ProjectId" id="1aK8Z3yNGNtvH2rzIjc5LjUovXW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager" selected="Python.number_of_inversions">
+    <configuration name="collecting_signatures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithmic Toolbox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Greedy Algorithms/Collecting Signatures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Greedy Algorithms/Collecting Signatures/collecting_signatures.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="maximum_number_of_prizes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithmic Toolbox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes/maximum_number_of_prizes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="maximum_salary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithmic Toolbox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Greedy Algorithms/Maximum Salary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Greedy Algorithms/Maximum Salary/maximum_salary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="number_of_inversions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithmic Toolbox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for maximum_salary_unit_tests.TestLargestNumber" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Algorithmic Toolbox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Greedy Algorithms/Maximum Salary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;maximum_salary_unit_tests.TestLargestNumber&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.number_of_inversions" />
+        <item itemvalue="Python tests.Unittests for maximum_salary_unit_tests.TestLargestNumber" />
+        <item itemvalue="Python.maximum_salary" />
+        <item itemvalue="Python.maximum_number_of_prizes" />
+        <item itemvalue="Python.collecting_signatures" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71a9cd6e-449f-4e11-8893-fd3e97a23139" name="Default Changelist" comment="" />
+      <created>1586472976164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586472976164</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="400" y="128" key="#Inspections" timestamp="1586880600171">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="400" y="128" key="#Inspections/0.23.1600.877@0.23.1600.877" timestamp="1586880600171" />
+    <state x="264" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586473570386">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="264" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1600.877@0.23.1600.877" timestamp="1586473570386" />
+    <state x="100" y="123" width="1400" height="677" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1587160554663">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="100" y="123" width="1400" height="677" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1600.877@0.23.1600.877" timestamp="1587160554663" />
+    <state x="488" y="198" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587159210879">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="488" y="198" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1600.877@0.23.1600.877" timestamp="1587159210879" />
+    <state x="563" y="175" key="#xdebugger.evaluate" timestamp="1588646589862">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="563" y="175" key="#xdebugger.evaluate/0.23.1600.877@0.23.1600.877" timestamp="1588646589862" />
+    <state width="1203" height="479" key="DebuggerActiveHint" timestamp="1588789815453">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1203" height="479" key="DebuggerActiveHint/0.0.1600.900@0.0.1600.900" timestamp="1588789815453" />
+    <state width="1203" height="466" key="DebuggerActiveHint/0.23.1600.877@0.23.1600.877" timestamp="1588649650188" />
+    <state x="588" y="213" key="FileChooserDialogImpl" timestamp="1589315527201">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="588" y="213" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1589315527201" />
+    <state width="1558" height="220" key="GridCell.Tab.0.bottom" timestamp="1589315965881">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="220" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1589315965881" />
+    <state width="1558" height="283" key="GridCell.Tab.0.bottom/0.23.1600.877@0.23.1600.877" timestamp="1588788333475" />
+    <state width="1558" height="220" key="GridCell.Tab.0.center" timestamp="1589315965881">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="220" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1589315965881" />
+    <state width="1558" height="283" key="GridCell.Tab.0.center/0.23.1600.877@0.23.1600.877" timestamp="1588788333473" />
+    <state width="1558" height="220" key="GridCell.Tab.0.left" timestamp="1589315965880">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="220" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1589315965880" />
+    <state width="1558" height="283" key="GridCell.Tab.0.left/0.23.1600.877@0.23.1600.877" timestamp="1588788333473" />
+    <state width="1558" height="220" key="GridCell.Tab.0.right" timestamp="1589315965881">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="220" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1589315965881" />
+    <state width="1558" height="283" key="GridCell.Tab.0.right/0.23.1600.877@0.23.1600.877" timestamp="1588788333474" />
+    <state width="1558" height="220" key="GridCell.Tab.1.bottom" timestamp="1589315965883">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="220" key="GridCell.Tab.1.bottom/0.0.1600.900@0.0.1600.900" timestamp="1589315965883" />
+    <state width="1558" height="208" key="GridCell.Tab.1.bottom/0.23.1600.877@0.23.1600.877" timestamp="1588788173658" />
+    <state width="1558" height="220" key="GridCell.Tab.1.center" timestamp="1589315965882">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="220" key="GridCell.Tab.1.center/0.0.1600.900@0.0.1600.900" timestamp="1589315965882" />
+    <state width="1558" height="208" key="GridCell.Tab.1.center/0.23.1600.877@0.23.1600.877" timestamp="1588788173658" />
+    <state width="1558" height="220" key="GridCell.Tab.1.left" timestamp="1589315965882">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="220" key="GridCell.Tab.1.left/0.0.1600.900@0.0.1600.900" timestamp="1589315965882" />
+    <state width="1558" height="208" key="GridCell.Tab.1.left/0.23.1600.877@0.23.1600.877" timestamp="1588788173658" />
+    <state width="1558" height="220" key="GridCell.Tab.1.right" timestamp="1589315965882">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1558" height="220" key="GridCell.Tab.1.right/0.0.1600.900@0.0.1600.900" timestamp="1589315965882" />
+    <state width="1558" height="208" key="GridCell.Tab.1.right/0.23.1600.877@0.23.1600.877" timestamp="1588788173658" />
+    <state x="277" y="75" key="SettingsEditor" timestamp="1588978270392">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="277" y="75" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1588978270392" />
+    <state x="277" y="96" key="SettingsEditor/0.23.1600.877@0.23.1600.877" timestamp="1586702097966" />
+    <state width="800" height="438" key="XDebugger.FullValuePopup" timestamp="1588650575852">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="800" height="438" key="XDebugger.FullValuePopup/0.23.1600.877@0.23.1600.877" timestamp="1588650575852" />
+    <state x="100" y="123" width="1400" height="677" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1586701966716">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="100" y="123" width="1400" height="677" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1600.877@0.23.1600.877" timestamp="1586701966716" />
+    <state x="100" y="123" width="1400" height="677" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1586701966717">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="100" y="123" width="1400" height="677" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.23.1600.877@0.23.1600.877" timestamp="1586701966717" />
+    <state x="0" y="0" width="1600" height="900" key="com.intellij.ide.util.TipDialog" timestamp="1588978350452">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="0" y="0" width="1600" height="900" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1588978350452" />
+    <state x="454" y="296" key="com.intellij.ide.util.TipDialog/0.23.1600.877@0.23.1600.877" timestamp="1587515494251" />
+    <state x="454" y="85" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588786442508">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="454" y="85" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1600.877@0.23.1600.877" timestamp="1588786442508" />
+    <state x="-30" y="182" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1588802790811">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="-30" y="182" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1600.900@0.0.1600.900" timestamp="1588802790811" />
+    <state x="318" y="206" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1600.877@0.23.1600.877" timestamp="1588646868637" />
+    <state x="465" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1587683936431">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="465" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1600.877@0.23.1600.877" timestamp="1587683936431" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Algorithmic Warm Up/Fibonacci Number Again/fibonacci_number_again_unit_tests.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="523" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="526" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="529" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <line>75</line>
+          <option name="timeStamp" value="530" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="586" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="588" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="589" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="591" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="595" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="600" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="601" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="603" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="604" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="605" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="606" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes/maximum_number_of_prizes.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="785" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes/maximum_number_of_prizes.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="786" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes/maximum_number_of_prizes.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="787" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes/maximum_number_of_prizes.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="788" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Greedy Algorithms/Maximum Number of Prizes/maximum_number_of_prizes.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="789" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="880" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="881" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="882" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="883" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="884" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="885" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="886" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="887" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>114</line>
+          <option name="timeStamp" value="888" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>115</line>
+          <option name="timeStamp" value="889" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>121</line>
+          <option name="timeStamp" value="890" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="891" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="892" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>127</line>
+          <option name="timeStamp" value="893" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>128</line>
+          <option name="timeStamp" value="894" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>132</line>
+          <option name="timeStamp" value="895" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>133</line>
+          <option name="timeStamp" value="896" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="897" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>135</line>
+          <option name="timeStamp" value="898" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>116</line>
+          <option name="timeStamp" value="899" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>117</line>
+          <option name="timeStamp" value="900" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Divide-and-Conquer/Number of Inversions/number_of_inversions.py</url>
+          <line>144</line>
+          <option name="timeStamp" value="901" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog>
+          <selected-grouping-rules>
+            <grouping-rule id="by-file" />
+          </selected-grouping-rules>
+        </breakpoints-dialog>
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

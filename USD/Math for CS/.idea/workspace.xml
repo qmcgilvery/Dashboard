@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36b47e9a-cff4-4a48-a6f5-c6ddc2a453ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YwaIj4xDlnLs2iehuFkGEvKZdA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.APlusB">
+    <configuration name="APlusB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="m4cs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/HrAlYzwYSmywJWM8GCpsQw_e335502343924c25abdeb9d5de474074_course1_2002192002/week1_programming_challenges/1_sum_of_two_digits" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/HrAlYzwYSmywJWM8GCpsQw_e335502343924c25abdeb9d5de474074_course1_2002192002/week1_programming_challenges/1_sum_of_two_digits/APlusB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="number_theory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="m4cs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/number_theory.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="m4cs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="stable_matching" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="m4cs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stable_matching.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tsp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="m4cs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tsp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.APlusB" />
+        <item itemvalue="Python.tsp" />
+        <item itemvalue="Python.number_theory" />
+        <item itemvalue="Python.stable_matching" />
+        <item itemvalue="Python.scratch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36b47e9a-cff4-4a48-a6f5-c6ddc2a453ce" name="Default Changelist" comment="" />
+      <created>1583856032821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583856032821</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="128" key="#Inspections" timestamp="1583878622545">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="0" y="128" key="#Inspections/0.23.1600.877@0.23.1600.877" timestamp="1583878622545" />
+    <state x="495" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585264825016">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="495" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.900@0.0.1600.900" timestamp="1585264825016" />
+    <state width="1579" height="154" key="GridCell.Tab.0.bottom" timestamp="1586471737385">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1579" height="165" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1586051919581" />
+    <state width="1579" height="154" key="GridCell.Tab.0.bottom/0.23.1600.877@0.23.1600.877" timestamp="1586471737385" />
+    <state width="1579" height="154" key="GridCell.Tab.0.center" timestamp="1586471737384">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1579" height="165" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1586051919580" />
+    <state width="1579" height="154" key="GridCell.Tab.0.center/0.23.1600.877@0.23.1600.877" timestamp="1586471737384" />
+    <state width="1579" height="154" key="GridCell.Tab.0.left" timestamp="1586471737384">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1579" height="165" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1586051919579" />
+    <state width="1579" height="154" key="GridCell.Tab.0.left/0.23.1600.877@0.23.1600.877" timestamp="1586471737384" />
+    <state width="1579" height="154" key="GridCell.Tab.0.right" timestamp="1586471737385">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state width="1579" height="165" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1586051919581" />
+    <state width="1579" height="154" key="GridCell.Tab.0.right/0.23.1600.877@0.23.1600.877" timestamp="1586471737385" />
+    <state width="1579" height="303" key="GridCell.Tab.1.bottom" timestamp="1584888808777">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="303" key="GridCell.Tab.1.bottom/0.0.1600.900@0.0.1600.900" timestamp="1584888808777" />
+    <state width="1579" height="303" key="GridCell.Tab.1.center" timestamp="1584888808777">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="303" key="GridCell.Tab.1.center/0.0.1600.900@0.0.1600.900" timestamp="1584888808777" />
+    <state width="1579" height="303" key="GridCell.Tab.1.left" timestamp="1584888808776">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="303" key="GridCell.Tab.1.left/0.0.1600.900@0.0.1600.900" timestamp="1584888808776" />
+    <state width="1579" height="303" key="GridCell.Tab.1.right" timestamp="1584888808777">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="303" key="GridCell.Tab.1.right/0.0.1600.900@0.0.1600.900" timestamp="1584888808777" />
+    <state x="301" y="100" key="SettingsEditor" timestamp="1586472886816">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="301" y="100" key="SettingsEditor/0.23.1600.877@0.23.1600.877" timestamp="1586472886816" />
+    <state x="598" y="425" key="com.intellij.ide.util.TipDialog" timestamp="1586472915624">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="598" y="425" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1586303362154" />
+    <state x="598" y="425" key="com.intellij.ide.util.TipDialog/0.23.1600.877@0.23.1600.877" timestamp="1586472915624" />
+    <state x="457" y="73" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586042725104">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="457" y="73" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1600.900@0.0.1600.900" timestamp="1586042725104" />
+    <state x="377" y="46" width="845" height="807" key="find.popup" timestamp="1585513479650">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="377" y="46" width="845" height="807" key="find.popup/0.0.1600.900@0.0.1600.900" timestamp="1585513479650" />
+  </component>
+</project>

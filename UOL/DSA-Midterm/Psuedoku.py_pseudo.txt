@@ -1,0 +1,182 @@
+IMPORT random
+
+
+
+SET row TO [i FOR i IN range(4)]
+
+
+
+
+
+DEFINE FUNCTION make_vector(new_row):
+
+    SET puzzle TO [[None] * 4 FOR _ IN range(4)]
+
+    FOR i IN range(len(new_row)):
+
+        FOR j IN range(4):
+
+            SET puzzle[i][j] TO j + 1
+
+    RETURN puzzle
+
+
+
+
+
+DEFINE FUNCTION permute_vector(new_row, p):
+
+    FOR x IN range(p):
+
+        SET store TO new_row.pop(len(new_row) - 1)
+
+        new_row.insert(0, store)
+
+    RETURN new_row
+
+
+
+
+
+DEFINE FUNCTION permute_row(puzzle, x, y, z):
+
+    permute_vector(puzzle[1], x)
+
+    permute_vector(puzzle[2], y)
+
+    permute_vector(puzzle[3], z)
+
+    RETURN puzzle
+
+
+
+
+
+DEFINE FUNCTION linear_search(vector, item):
+
+    FOR i IN range(1, len(vector)):
+
+        IF item IN vector:
+
+            RETURN True
+
+    RETURN False
+
+
+
+
+
+DEFINE FUNCTION check_column(puzzle, j):
+
+    SET temp TO []
+
+    FOR k IN range(len(puzzle)):
+
+        temp.append(puzzle[k][j])
+
+    FOR k IN range(1, 5):
+
+        IF not linear_search(temp, k):
+
+            RETURN False
+
+    RETURN temp
+
+
+
+
+
+DEFINE FUNCTION col_check(puzzle):
+
+    FOR x IN range(len(puzzle)):
+
+        IF not check_column(puzzle, x):
+
+            RETURN False
+
+    RETURN True
+
+
+
+
+
+DEFINE FUNCTION check_grid(puzzle, row1, col1, row2, col2):
+
+    SET temp TO [puzzle[row1][col1], puzzle[row1][col2], puzzle[row2][col1], puzzle[row2][col2]]
+
+    FOR k IN range(1, 5):
+
+        IF not linear_search(temp, k):
+
+            RETURN False
+
+    RETURN temp
+
+
+
+
+
+DEFINE FUNCTION check_grids(puzzle):
+
+    FOR k IN range(2):
+
+        FOR j IN range(2):
+
+            IF not check_grid(puzzle, 2 * k, 2 * j, 1 + 2 * k, 1 + 2 * j):
+
+                RETURN False
+
+    RETURN True
+
+
+
+
+
+DEFINE FUNCTION make_solution(row):
+
+    SET puzzle TO make_vector(row)
+
+
+
+    WHILE not (col_check(puzzle) and check_grids(puzzle)):
+
+        SET x TO random.randint(0, 3)
+
+        SET y TO random.randint(0, 3)
+
+        SET z TO random.randint(0, 3)
+
+
+
+        permute_row(puzzle, x, y, z)
+
+
+
+    RETURN puzzle
+
+
+
+
+
+DEFINE FUNCTION make_puzzle(puzzle):
+
+    FOR i IN range(len(puzzle)):
+
+        SET x TO random.randint(0, 3)
+
+        SET y TO random.randint(0, 3)
+
+        SET z TO random.randint(0, 3)
+
+        SET puzzle[i][x] TO None
+
+        SET puzzle[i][y] TO None
+
+        SET puzzle[i][z] TO None
+
+    RETURN puzzle
+
+
+
+
+

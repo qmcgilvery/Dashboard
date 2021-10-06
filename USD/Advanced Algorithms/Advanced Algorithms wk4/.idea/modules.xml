@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Advanced Algorithms wk4.iml" filepath="$PROJECT_DIR$/.idea/Advanced Algorithms wk4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Algorithms on Graphs/.idea/Algorithms_on_Graphs.iml" filepath="$PROJECT_DIR$/../../Algorithms on Graphs/.idea/Algorithms_on_Graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Algorithms on Graphs/week3_paths1/.idea/week3_paths1.iml" filepath="$PROJECT_DIR$/../../Algorithms on Graphs/week3_paths1/.idea/week3_paths1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../Algorithms on Graphs/week4_paths2/.idea/week4_paths2.iml" filepath="$PROJECT_DIR$/../../Algorithms on Graphs/week4_paths2/.idea/week4_paths2.iml" />
+    </modules>
+  </component>
+</project>

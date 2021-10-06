@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0314d71-3c23-48a3-ac5e-fc5f26da0316" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gWVKUKxGJTZi983J8wvytkoVvg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/diet" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/diet" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.diet">
+    <configuration name="diet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advanced Algorithms wk2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/diet" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/diet/diet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="energy_values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advanced Algorithms wk2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/energy_values" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/energy_values/energy_values.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="linalg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advanced Algorithms wk2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Algorithms on Strings wk1/venv/lib/python3.8/site-packages/numpy/linalg" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Algorithms on Strings wk1/venv/lib/python3.8/site-packages/numpy/linalg/linalg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="old_diet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Advanced Algorithms wk2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/diet" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/diet/old_diet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.diet" />
+        <item itemvalue="Python.old_diet" />
+        <item itemvalue="Python.energy_values" />
+        <item itemvalue="Python.linalg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0314d71-3c23-48a3-ac5e-fc5f26da0316" name="Default Changelist" comment="" />
+      <created>1598230272608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598230272608</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="539" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600825716333">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="539" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.900@0.0.1600.900" timestamp="1600825716333" />
+    <state x="488" y="186" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1601058289251">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="488" y="186" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1600.900@0.0.1600.900" timestamp="1601058289251" />
+    <state x="493" y="79" key="#diet" timestamp="1600305689619">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="493" y="79" key="#diet/0.0.1600.900@0.0.1600.900" timestamp="1600305689619" />
+    <state width="612" height="466" key="DebuggerActiveHint" timestamp="1599863650115">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="612" height="466" key="DebuggerActiveHint/0.0.1600.900@0.0.1600.900" timestamp="1599863650115" />
+    <state width="1579" height="125" key="GridCell.Tab.0.bottom" timestamp="1600919215021">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="125" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1600919215021" />
+    <state width="1579" height="125" key="GridCell.Tab.0.center" timestamp="1600919215020">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="125" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1600919215020" />
+    <state width="1579" height="125" key="GridCell.Tab.0.left" timestamp="1600919215020">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="125" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1600919215020" />
+    <state width="1579" height="125" key="GridCell.Tab.0.right" timestamp="1600919215021">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="125" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1600919215021" />
+    <state width="1579" height="227" key="GridCell.Tab.1.bottom" timestamp="1600919215013">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="227" key="GridCell.Tab.1.bottom/0.0.1600.900@0.0.1600.900" timestamp="1600919215013" />
+    <state width="1579" height="227" key="GridCell.Tab.1.center" timestamp="1600919215012">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="227" key="GridCell.Tab.1.center/0.0.1600.900@0.0.1600.900" timestamp="1600919215012" />
+    <state width="1579" height="227" key="GridCell.Tab.1.left" timestamp="1600919215012">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="227" key="GridCell.Tab.1.left/0.0.1600.900@0.0.1600.900" timestamp="1600919215012" />
+    <state width="1579" height="227" key="GridCell.Tab.1.right" timestamp="1600919215012">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="227" key="GridCell.Tab.1.right/0.0.1600.900@0.0.1600.900" timestamp="1600919215012" />
+    <state x="301" y="89" key="SettingsEditor" timestamp="1599850551325">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="301" y="89" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1599850551325" />
+    <state x="454" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1601058274806">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="454" y="315" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1601058274806" />
+    <state x="457" y="73" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599678198362">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="457" y="73" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1600.900@0.0.1600.900" timestamp="1599678198362" />
+    <state x="657" y="118" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600717317185">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="657" y="118" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1600.900@0.0.1600.900" timestamp="1600717317185" />
+    <state x="377" y="181" width="845" height="538" key="find.popup" timestamp="1600730518160">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="377" y="181" width="845" height="538" key="find.popup/0.0.1600.900@0.0.1600.900" timestamp="1600730518160" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/diet/diet.py</url>
+          <line>214</line>
+          <option name="timeStamp" value="458" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/diet/diet.py</url>
+          <line>209</line>
+          <option name="timeStamp" value="500" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/diet/diet.py</url>
+          <line>210</line>
+          <option name="timeStamp" value="501" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/diet/diet.py</url>
+          <line>211</line>
+          <option name="timeStamp" value="502" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/diet/diet.py</url>
+          <line>212</line>
+          <option name="timeStamp" value="503" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/diet/diet.py</url>
+          <line>172</line>
+          <option name="timeStamp" value="614" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/diet/diet.py</url>
+          <line>190</line>
+          <option name="timeStamp" value="615" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/diet/diet.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="618" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/diet/diet.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="619" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/diet/diet.py</url>
+          <line>102</line>
+          <option name="timeStamp" value="620" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/diet/diet.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="621" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/diet/diet.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="622" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="combo" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

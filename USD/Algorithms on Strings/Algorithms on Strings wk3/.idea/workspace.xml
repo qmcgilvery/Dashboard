@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16ed6c9f-ac6e-4529-bad9-c5f4809223ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1fHWYCzP9pn57dhpyOQlwMI65sf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.suffix_array_long">
+    <configuration name="kmp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms on Strings wk3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kmp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kmp/kmp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="suffix_array_long" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms on Strings wk3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/suffix_array_long" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/suffix_array_long/suffix_array_long.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.suffix_array_long" />
+        <item itemvalue="Python.kmp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16ed6c9f-ac6e-4529-bad9-c5f4809223ed" name="Default Changelist" comment="" />
+      <created>1595875543876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595875543876</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1579" height="245" key="GridCell.Tab.0.bottom" timestamp="1596314252561">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="245" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1596314252561" />
+    <state width="1579" height="245" key="GridCell.Tab.0.center" timestamp="1596314252560">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="245" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1596314252560" />
+    <state width="1579" height="245" key="GridCell.Tab.0.left" timestamp="1596314252560">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="245" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1596314252560" />
+    <state width="1579" height="245" key="GridCell.Tab.0.right" timestamp="1596314252560">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="245" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1596314252560" />
+    <state width="1579" height="303" key="GridCell.Tab.1.bottom" timestamp="1596314252547">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="303" key="GridCell.Tab.1.bottom/0.0.1600.900@0.0.1600.900" timestamp="1596314252547" />
+    <state width="1579" height="303" key="GridCell.Tab.1.center" timestamp="1596314252547">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="303" key="GridCell.Tab.1.center/0.0.1600.900@0.0.1600.900" timestamp="1596314252547" />
+    <state width="1579" height="303" key="GridCell.Tab.1.left" timestamp="1596314252546">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="303" key="GridCell.Tab.1.left/0.0.1600.900@0.0.1600.900" timestamp="1596314252546" />
+    <state width="1579" height="303" key="GridCell.Tab.1.right" timestamp="1596314252547">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1579" height="303" key="GridCell.Tab.1.right/0.0.1600.900@0.0.1600.900" timestamp="1596314252547" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kmp/kmp.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/suffix_array_long/suffix_array_long.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/suffix_array_long/suffix_array_long.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/suffix_array_long/suffix_array_long.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/suffix_array_long/suffix_array_long.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/suffix_array_long/suffix_array_long.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/suffix_array_long/suffix_array_long.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/suffix_array_long/suffix_array_long.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
